@@ -64,6 +64,7 @@ namespace DesafioProjetoHospedagem.Models
             }
 
             return valor;
+
         }
     }
 }
